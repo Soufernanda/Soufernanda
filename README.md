@@ -79,6 +79,14 @@ Me chamo "[Fernanda Miranda](https://www.instagram.com/fernanda_soumi/)", tenho 
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 
@@ -104,7 +112,4 @@ Me chamo "[Fernanda Miranda](https://www.instagram.com/fernanda_soumi/)", tenho 
   />
 
 </p>
-<!---
-Soufernanda/Soufernanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
