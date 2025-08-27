@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Fernanda Miranda
 
-**`Desenvolvedora`**
+**`Estudante em Desenvolvimento`**
 
 Me chamo "[Fernanda Miranda](https://www.instagram.com/fernanda_soumi/)", tenho 25 anos e sou natural de Belém, Pará. Atualmente, curso Bacharelado em Sistemas de Informação na UFRA. Sou apaixonada por tecnologia, com interesse especial em desenvolvimento e garantia da qualidade de software (QA), área na qual pretendo iniciar minha atuação. Gosto de explorar novas ferramentas e linguagens, além de desenvolver projetos que unem prática e criatividade.
 
